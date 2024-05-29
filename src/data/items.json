@@ -1,0 +1,18 @@
+[
+  { "id": 1, "name": "Паста карбонара", "description": "Паста карбонара со сливками, базиликом и тёртым сыром", "weight": "370 гр.","price": 499, "type": "1", "img": "/menu-img/menu-img1.jpg" },
+  { "id": 2, "name": "Паста капеллини",  "description": "Паста капеллини с лёгким соусом, морепродуктами и базиликом", "weight": "350 гр.", "price": 549, "type": "1", "img": "/menu-img/menu-img2.jpg" },
+  { "id": 3, "name": "Паста букатини",  "description": "Паста букатини с соусом из томатов и гуанчиле", "weight": "400 гр.",  "price": 449, "type": "1", "img": "/menu-img/menu-img3.jpg" },
+  { "id": 4, "name": "Паста феттучини",  "description": "Нежная паста феттучини со сливочным маслом, тертым пармезаном и лососем", "weight": "320 гр.",  "price": 599, "type": "1", "img": "/menu-img/menu-img4.jpg" },
+  { "id": 5, "name": "Паста зити",  "description": "Нежная зити с курицей, пармезаном и базиликом", "weight": "410 гр.",  "price": 429, "type": "1", "img": "/menu-img/menu-img5.jpg" },
+  { "id": 6, "name": "Паста болоньезе",  "description": "Паста болоньезе с мясным фаршем, сливками и пармезаном", "weight": "420 гр.",  "price": 499, "type": "1", "img": "/menu-img/menu-img6.jpg" },
+  { "id": 7, "name": "Сливочный суп",  "description": "Сливочный суп с креветками и соусом песто", "weight": "550 гр.",  "price": 599, "type": "2", "img": "/menu-img/menu-img7.jpg" },
+  { "id": 8, "name": "Томатный суп",  "description": "Томатный суп с морепродуктами (креветки, мидии, лосось)", "weight": "530 гр.",  "price": 699, "type": "2", "img": "/menu-img/menu-img8.jpg" },
+  { "id": 9, "name": "Бродо с тортеллини",  "description": "Тортеллини с индейкой в бульоне с овощами", "weight": "580 гр.",  "price": 499, "type": "2", "img": "/menu-img/menu-img9.jpg" },
+  { "id": 10, "name": "Пицца Маргарита",  "description": "Пицца Маргарита с томатным соусом, моцареллой и орегано", "weight": "610 гр.",  "price": 399, "type": "3", "img": "/menu-img/menu-img10.jpg" },
+  { "id": 11, "name": "Пицца четыре сыра",  "description": "Моцарелла, пармезан, чеддер, сыр с голубой плесенью", "weight": "620 гр.",  "price": 499, "type": "3", "img": "/menu-img/menu-img11.jpg" },
+  { "id": 12, "name": "Пицца с прошутто",  "description": "Пицца с прошутто, томатами, моцареллой, орегано и капперсами", "weight": "620 гр.",  "price": 549, "type": "3", "img": "/menu-img/menu-img12.jpg" },
+  { "id": 13, "name": "Пицца карбонара",  "description": "Пицца карбонара с беконом, пармезаном, моцареллой и перепелиными желтками", "weight": "620 гр.",  "price": 449, "type": "3", "img": "/menu-img/menu-img13.jpg" },
+  { "id": 14, "name": "Римская пицца",  "description": "Пицца с пепперони, анчоусами, моцареллой, каперсами и орегано", "weight": "700 гр.",  "price": 699, "type": "3", "img": "/menu-img/menu-img14.jpg" },
+  { "id": 15, "name": "Кофе",  "description": "Кофе из отборных зёрен, отличный способ отдохнуть или согреться", "weight": "300 мл.",  "price": 199, "type": "4", "img": "/menu-img/menu-img15.jpg" },
+  { "id": 16, "name": "Сок",  "description": "Свежевыжатые соки из разных спелых фруктов", "weight": "1000 мл.",  "price": 299, "type": "4", "img": "/menu-img/menu-img16.jpg" },
+  { "id": 17, "name": "Вино",  "description": "Различные вина разных сортов и годов выдержки итальянского сбора", "weight": "250 мл.",  "price": 499, "type": "4", "img": "/menu-img/menu-img17.jpg" }]
